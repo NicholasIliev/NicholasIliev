@@ -49,7 +49,7 @@
 
 ### 📊 Statistics
   
-| <a href="https://github.com/NicholasIliev/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=NicholasIliev&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" alt="Nicholas's github stats" /></a> | <a href="https://github.com/NicholasIliev/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=transparent&hide_border=true" /></a> |
+| <a href="https://github.com/NicholasIliev"><img align="center" src="https://github-readme-stats.vercel.app/api?username=NicholasIliev&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" alt="Nicholas's github stats" /></a> | <a href="https://github.com/NicholasIliev"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=transparent&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 ### 🎯 Top Repositories
