@@ -54,10 +54,10 @@
 
 ### 🎯 Top Repositories
   
-<a href="https://github.com/NicholasIliev/github-readme-stats">
+<a href="https://github.com/NicholasIliev/FitFlow">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NicholasIliev&repo=FitFlow&theme=transparent" />
 </a>
-<a href="https://github.com/NicholasIliev/anuraghazra.github.io">
+<a href="https://github.com/NicholasIliev/Portfolio-Website">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NicholasIliev&repo=Portfolio-Website&theme=transparent" />
 </a>
 
