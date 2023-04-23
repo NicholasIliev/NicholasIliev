@@ -50,5 +50,5 @@
 ### 📊 Statistics
 <a href="https://github.com/NicholasIliev" align="left">
     <img height="180px" width="45%" src="https://github-readme-stats.vercel.app/api?username=NicholasIliev&show_icons=true&theme=tokyonight" height="180px">
-    <img height="150px" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicholasIliev&layout=compact&show_icons=true&theme=tokyonight" height="180px">
+    <img height="160px" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicholasIliev&layout=compact&show_icons=true&theme=tokyonight" height="180px">
 </a>
