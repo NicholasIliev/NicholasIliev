@@ -23,6 +23,7 @@
 
 ### 🧰 Languages & Tools
 
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
@@ -48,6 +49,6 @@
 
 ### 📊 Statistics
 <a href="https://github.com/NicholasIliev" align="left">
-    <img height="180px" width="45%" src="https://github-readme-stats.vercel.app/api?username=NicholasIliev&show_icons=true&theme=tokyonight" width="48%">
-    <img height="180px" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicholasIliev&layout=compact&show_icons=true&theme=tokyonight" width="48%">
+    <img height="180px" width="45%" src="https://github-readme-stats.vercel.app/api?username=NicholasIliev&show_icons=true&theme=tokyonight">
+    <img height="180px" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicholasIliev&layout=compact&show_icons=true&theme=tokyonight">
 </a>
