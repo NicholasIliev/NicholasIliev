@@ -7,7 +7,7 @@
 
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&width=435&lines=Full+Stack+Developer;2%2B+Years+of+Coding+Experience+;Always+Learning+New+Things" alt="Typing SVG" /></a>
   
-**☕ About Me**
+### ☕ About Me
 
 - 🎓 Computer Science Student at The University of Manchester.
 
