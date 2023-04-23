@@ -1,12 +1,10 @@
 <div id="header" >
   
-<img src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" width="40%" align="right" />
-
-
 # Nicholas Iliev
 
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&width=435&lines=Full+Stack+Developer;2%2B+Years+of+Coding+Experience+;Always+Learning+New+Things" alt="Typing SVG" /></a>
-  
+
+
 ### ☕ About Me
 
 - 🎓 Computer Science Student at The University of Manchester.
@@ -61,3 +59,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NicholasIliev&repo=Portfolio-Website&theme=transparent" />
 </a>
 
+  
+<!-- <img src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" width="40%" align="right" />  This is an optional image that I may use later-->
