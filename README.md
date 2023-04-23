@@ -49,15 +49,15 @@
 
 ### 📊 Statistics
   
-| <a href="https://github.com/NicholasIliev/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=NicholasIliev&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Nicholas's github stats" /></a> | <a href="https://github.com/NicholasIliev/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/NicholasIliev/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=NicholasIliev&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" alt="Nicholas's github stats" /></a> | <a href="https://github.com/NicholasIliev/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=transparent&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 ### Top Repositories
   
 <a href="https://github.com/NicholasIliev/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NicholasIliev&repo=FitFlow&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NicholasIliev&repo=FitFlow&theme=transparent" />
 </a>
 <a href="https://github.com/NicholasIliev/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NicholasIliev&repo=Portfolio-Website&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NicholasIliev&repo=Portfolio-Website&theme=transparent" />
 </a>
 
