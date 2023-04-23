@@ -48,8 +48,16 @@
 
 
 ### 📊 Statistics
-<a href="https://github.com/NicholasIliev" align="left">
-    <img height="180px" width="45%" src="https://github-readme-stats.vercel.app/api?username=NicholasIliev&show_icons=true&theme=tokyonight" style="vertical-align: top;">
-    <img height="180px" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicholasIliev&layout=compact&show_icons=true&theme=tokyonight" style="vertical-align: top;">
+  
+| <a href="https://github.com/NicholasIliev/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=NicholasIliev&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Nicholas's github stats" /></a> | <a href="https://github.com/NicholasIliev/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+### Top Repositories
+  
+<a href="https://github.com/NicholasIliev/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NicholasIliev&repo=FitFlow&theme=buefy" />
+</a>
+<a href="https://github.com/NicholasIliev/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NicholasIliev&repo=Portfolio-Website&theme=buefy" />
 </a>
 
