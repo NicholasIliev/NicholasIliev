@@ -7,7 +7,7 @@
 
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&width=435&lines=Full+Stack+Developer;2%2B+Years+of+Coding+Experience+;Always+Learning+New+Things" alt="Typing SVG" /></a>
   
-**👨🏻‍💻 About Me**
+**☕ About Me**
 
 - 🎓 Computer Science Student at The University of Manchester.
 
@@ -52,7 +52,7 @@
 | <a href="https://github.com/NicholasIliev/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=NicholasIliev&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" alt="Nicholas's github stats" /></a> | <a href="https://github.com/NicholasIliev/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=transparent&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-### Top Repositories
+### 🎯 Top Repositories
   
 <a href="https://github.com/NicholasIliev/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NicholasIliev&repo=FitFlow&theme=transparent" />
