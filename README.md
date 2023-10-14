@@ -55,8 +55,8 @@
 <a href="https://github.com/NicholasIliev/FitFlow">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NicholasIliev&repo=FitFlow&theme=transparent" />
 </a>
-<a href="https://github.com/NicholasIliev/Portfolio-Website">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NicholasIliev&repo=Portfolio-Website&theme=transparent" />
+<a href="https://github.com/NicholasIliev/portfolio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NicholasIliev&repo=portfolio&theme=transparent" />
 </a>
 
   
