@@ -52,8 +52,8 @@
 
 ### 🎯 Top Repositories
   
-<a href="https://github.com/NicholasIliev/FitFlow">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NicholasIliev&repo=FitFlow&theme=transparent" />
+<a href="https://github.com/NicholasIliev/AntiSpoofingDetector">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NicholasIliev&repo=AntiSpoofingDetector&theme=transparent" />
 </a>
 <a href="https://github.com/NicholasIliev/portfolio">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NicholasIliev&repo=portfolio&theme=transparent" />
