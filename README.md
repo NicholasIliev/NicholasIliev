@@ -11,12 +11,6 @@
 
 - 💻 I love writing code, and building fun experiments in a range of programming languages.
   
-<br>
-  
-<p align="left">
-<a href="mailto:nicholas.iliev.2003@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://linkedin.com/in/nicholas-iliev-456129262/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  
 ---
 
 ### 🧰 Languages & Tools
