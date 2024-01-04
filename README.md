@@ -7,13 +7,13 @@
 
 ### ☕ About Me
 
-- 🎓 Computer Science Student at The University of Manchester.
+- 🎓 2nd Year Computer Science Student at The University of Manchester.
 
 - 💻 I love writing code, and building fun experiments in a range of programming languages.
   
 ---
 
-### 🧰 Languages & Tools
+### 🧰 Technologies
 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
