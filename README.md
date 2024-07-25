@@ -7,7 +7,7 @@
 
 ### ☕ About Me
 
-- 💻 Software Engineer at Unisys | Lloyds Bank.
+- 💻 Software Engineer at Unisys @ Lloyds Bank.
 
 - 🎓 Computer Science Student at The University of Manchester (currently on placement year)
 
