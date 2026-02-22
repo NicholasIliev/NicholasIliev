@@ -2,14 +2,14 @@
   
 # Nicholas Iliev
 
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&width=435&lines=Software+Engineer;3%2B+Years+of+Coding+Experience;Always+Learning+New+Things" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&width=435&lines=Software+Engineer;5%2B+Years+Experience" alt="Typing SVG" /></a>
 
 
 ### ☕ About Me
 
-- 💻 Software Engineer at Unisys @ Lloyds Bank.
+- 💻 Software Engineer.
 
-- 🎓 Computer Science Student at The University of Manchester (currently on placement year)
+- 🎓 Final Year Computer Science Student at The University of Manchester
 
 - 🔧 Passionate about coding and building innovative projects across various programming languages
   
@@ -43,10 +43,10 @@
 
 
 
-
+<!--
 ---
 
-
+<!--
 ### 📊 Statistics
   
 | <a href="https://github.com/NicholasIliev"><img align="center" src="https://github-readme-stats.vercel.app/api?username=NicholasIliev&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" alt="Nicholas's github stats" /></a> | <a href="https://github.com/NicholasIliev"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicholasIliev&layout=compact&theme=transparent&hide_border=true" /></a> |
