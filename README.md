@@ -5,17 +5,17 @@
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&width=435&lines=Software+Engineer;5%2B+Years+Experience" alt="Typing SVG" /></a>
 
 
-### ☕ About Me
+### About Me
 
-- 💻 Software Engineer.
+- Experienced Software Engineer.
 
-- 🎓 Final Year Computer Science Student at The University of Manchester
+- Final Year Computer Science Student at The University of Manchester.
 
-- 🔧 Passionate about coding and building innovative projects across various programming languages
+- Passionate about software development and building innovative projects across various programming languages.
   
 ---
 
-### 🧰 Technologies
+### Technologies
 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
