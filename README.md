@@ -1,24 +1,31 @@
 # Nicholas Iliev
 
-Software Engineer | Systems, Software & Automation
+**Software Engineer | Systems, Architecture & Automation**
 
-I build reliable software and enjoy working across the layers of modern computing, from applications and algorithms to infrastructure and distributed systems.
+I build reliable software and enjoy understanding how systems work beneath the abstractions.
 
-### Areas of Interest
+My experience spans enterprise software, automation, APIs, computer vision and optimisation. I enjoy working across system boundaries, learning unfamiliar technologies and making pragmatic technical decisions.
 
-- Software engineering & system design
-- Distributed systems & cloud computing
-- DevOps, automation & developer tooling
-- Machine learning & computer vision
-- Robotics & intelligent systems
-- Cybersecurity & resilient systems
+## Technologies
 
-### Technologies
+**Languages**
+C# · Python · Java · C · C++ · JavaScript · TypeScript · COBOL
 
-**Languages:** C# · Python · Java · C · C++ · JavaScript · TypeScript · COBOL
+**Frameworks & Tools**
+.NET · React · Next.js · OpenCV · MediaPipe · Linux · Docker · Git · Jenkins · PowerShell
 
-**Frameworks & Platforms:** .NET · React · Next.js · OpenCV · MediaPipe
+## Engineering
 
-**Engineering:** Git · Linux · Docker · Jenkins · PowerShell
+I care about:
 
-I value clear abstractions, pragmatic design, automation, and understanding the trade-offs behind technical decisions.
+• Understanding systems deeply
+
+• Designing clear, maintainable architectures
+
+• Making explicit engineering trade offs
+
+• Automating repetitive work
+
+• Building software that can evolve
+
+• Learning unfamiliar systems quickly
