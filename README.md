@@ -4,7 +4,16 @@
 
 I build reliable software and enjoy understanding how systems work beneath the abstractions.
 
-My experience spans enterprise software, automation, APIs, computer vision and optimisation. I enjoy working across system boundaries, learning unfamiliar technologies and making pragmatic technical decisions.
+My experience spans enterprise software, automation, APIs, computer vision and optimisation. I work across system boundaries, learn unfamiliar technologies and make pragmatic technical decisions.
+
+## Engineering principles
+
+Understand systems deeply
+Design clear, maintainable boundaries
+Make trade offs explicit
+Automate where it creates leverage
+Build for change and failure
+Learn unfamiliar systems quickly
 
 ## Technologies
 
@@ -13,19 +22,3 @@ C# · Python · Java · C · C++ · JavaScript · TypeScript · COBOL
 
 **Frameworks & Tools**
 .NET · React · Next.js · OpenCV · MediaPipe · Linux · Docker · Git · Jenkins · PowerShell
-
-## Engineering
-
-I care about:
-
-• Understanding systems deeply
-
-• Designing clear, maintainable architectures
-
-• Making explicit engineering trade offs
-
-• Automating repetitive work
-
-• Building software that can evolve
-
-• Learning unfamiliar systems quickly
