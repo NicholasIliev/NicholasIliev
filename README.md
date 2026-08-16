@@ -1,16 +1,17 @@
 # Nicholas Iliev
 
-**Software Engineer | Systems, Software & Automation**
+Software Engineer | Systems, Software & Automation
 
-I build reliable software and enjoy working across the layers of modern computing, from algorithms and applications to infrastructure and distributed systems.
+I build reliable software and enjoy working across the layers of modern computing, from applications and algorithms to infrastructure and distributed systems.
 
 ### Areas of Interest
 
-* Software engineering & system design
-* Distributed systems & cloud computing
-* DevOps, automation & developer tooling
-* Machine learning & computer vision
-* Robotics & intelligent systems
+- Software engineering & system design
+- Distributed systems & cloud computing
+- DevOps, automation & developer tooling
+- Machine learning & computer vision
+- Robotics & intelligent systems
+- Cybersecurity & resilient systems
 
 ### Technologies
 
